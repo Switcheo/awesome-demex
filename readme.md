@@ -13,11 +13,10 @@ Please take a moment to review the [contribution guidelines](contributing.md) fi
 - [Awesome Demex](#awesome-demex)
   - [Contents](#contents)
 
+**[⬆ back to top](#contents)**
 
-## Sample Section
+## Bot
 
-About this section. Optional. Keep this short and focus on the list.
+- [Traḋemex](https://t.me/the_trademex_bot?start=source:awesome-demex) - Trade Demex perpetuals directly from Telegram
 
-- [List item](http://example.com)
-- [List item](http://example.com)
-
+**[⬆ back to top](#contents)**
