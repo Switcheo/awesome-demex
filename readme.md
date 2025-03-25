@@ -13,7 +13,7 @@ Please take a moment to review the [contribution guidelines](contributing.md) fi
 - [Awesome Demex](#awesome-demex)
   - [Contents](#contents)
   - [Guide](#guide)
-  - [Validator / Node Operator Tools](#validator-node-operator-tools)
+  - [Validator / Node Operator Tools](#validator--node-operator-tools)
   - [Developer Tools](#developer-tools)
   - [Trading Bot](#trading-bot)
 
