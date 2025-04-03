@@ -34,7 +34,7 @@ Please take a moment to review the [contribution guidelines](contributing.md) fi
 ## Developer Tools
 
 - [Demex Chain API](https://api.carbon.network/swagger/) - Demex chain REST API documentation
-- [Demex SDK](https://github.com/Switcheo/carbon-js-sdk) - Typescript / Javascript SDK for the Carbon blockchain
+- [Demex SDK](https://github.com/Switcheo/demex-sdk) - Typescript / Javascript SDK for the Carbon blockchain
 - [Carbon JS SDK (to-be-deprecated)](https://github.com/Switcheo/carbon-js-sdk) - Legacy Typescript / Javascript SDK
 
 **[⬆ back to top](#contents)**
