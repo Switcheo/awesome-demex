@@ -1,6 +1,6 @@
 # Awesome Demex
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-[![Last Commit](https://img.shields.io/github/last-commit/avelino/awesome-demex)](https://img.shields.io/github/last-commit/avelino/awesome-demex)
+[![Last Commit](https://img.shields.io/github/last-commit/Switcheo/awesome-demex)](https://img.shields.io/github/last-commit/Switcheo/awesome-demex)
 
 > A curated list of awesome tools, libraries, and resources for Demex to enhance trading, development, and analytics on the decentralized derivatives exchange.
 
